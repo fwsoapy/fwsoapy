@@ -1,4 +1,4 @@
-# hey im austin 👋
+# Hey Im Austin 👋
 
 I like to code. You can hire me for anything, I vibe code with Claude, and I make useful stuff for gamers. If it's a bot, a script, or a tool that makes gaming easier, I've probably built something like it.
 
