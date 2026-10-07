@@ -1,37 +1,48 @@
-# Hey Im Austin 👋
+# fwsoapy
 
-I like to code. You can hire me for anything, I vibe code with Claude, and I make useful stuff for gamers. If it's a bot, a script, or a tool that makes gaming easier, I've probably built something like it.
+I build tools for gamers: stream overlays, calculators, Discord bots and browser extensions.
+
+I take freelance work. If it's a bot, a script or a tool that makes a game easier to play or stream, I can build it. I build with Claude to move quickly.
 
 ## What I build
 
 - Discord bots
 - Chrome extensions
-- Web tools for games (calculators, overlays, trackers)
+- Web tools for games, like calculators, overlays and trackers
 - Roblox scripts in Luau
 
 ## Projects
 
-**[seedforge](https://github.com/fwsoapy/seedforge)** - Client-side Minecraft seed finder. Multi-criteria structure search with per-structure distance filters, proximity rules between structures, and biome targeting. Java and Bedrock. Runs entirely in the browser via Cubiomes + WASM, no backend needed.
-[Live demo](https://fwsoapy.github.io/seedforge/)
+### Ranked Overlay
+[Live site](https://fwsoapy.github.io/ranked-overlay/) | [Source](https://github.com/fwsoapy/ranked-overlay)
 
-**[fortnite-dropcalc](https://github.com/fwsoapy/fortnite-dropcalc)** - Give it your bus route and drop spot, it tells you the exact second to jump, pull, and cut. Flight timings were stopwatched in-game, not copied off a wiki.
-[Live demo](https://fwsoapy.github.io/fortnite-dropcalc/)
+A live Fortnite ranked overlay for OBS. It shows your rank, ELO, ELO gain, wins and losses and season stats from OliTracker, with 9 designs and any accent color. It runs as a website, so there's nothing to install: pick a design, copy one link and paste it into OBS.
 
-**[ranked-overlay](https://github.com/fwsoapy/ranked-overlay)** - Free live Fortnite ranked overlay and ELO tracker for OBS streamers. 9 designs, any accent color, real-time rank, ELO gain, wins and losses, and season stats pulled from OliTracker. Runs as a website, so there's nothing to download or install: pick a design, copy one link, paste it into OBS.
-[Live site](https://fwsoapy.github.io/ranked-overlay/)
+### Code Overlay
+[Live site](https://fwsoapy.github.io/code-overlay/) | [Source](https://github.com/fwsoapy/code-overlay)
 
-**[code-overlay](https://github.com/fwsoapy/code-overlay)** - Make a "Use Code" creator code overlay for your stream or videos and download it as a transparent PNG. Presets, custom colors, runs entirely in your browser.
-[Live site](https://fwsoapy.github.io/code-overlay/)
+Makes a "Use Code" creator code overlay for streams and videos and exports it as a transparent PNG. It has presets and custom colors, and it runs entirely in the browser.
 
-## Tech I use
+### Fortnite Drop Calculator
+[Live site](https://fwsoapy.github.io/fortnite-dropcalc/) | [Source](https://github.com/fwsoapy/fortnite-dropcalc)
 
-TypeScript, JavaScript, Python, Luau, WASM
+Enter your bus route and landing spot and it gives you the exact second to jump, pull and cut. The flight timings were measured in game with a stopwatch, not copied from a wiki.
 
-## Find me
+### SeedForge
+[Live site](https://fwsoapy.github.io/seedforge/) | [Source](https://github.com/fwsoapy/seedforge)
+
+A Minecraft seed finder for Java and Bedrock. It searches for several structures and biomes at once, with a distance limit for each and rules for how close they must be to each other. It runs in the browser on Cubiomes compiled to WebAssembly, with no backend.
+
+## Stack
+
+TypeScript, JavaScript, Python, Luau, WebAssembly
+
+## Contact
+
+The best way to reach me is Discord: **fwsoapy**.
 
 - GitHub: [@fwsoapy](https://github.com/fwsoapy)
 - Twitch: [fwsoap](https://twitch.tv/fwsoap)
 - YouTube: [@fwsoapy](https://youtube.com/@fwsoapy)
 - TikTok: [@fw.soap](https://tiktok.com/@fw.soap)
 - X: [@soapyfw](https://x.com/soapyfw)
-- Discord: fwsoapy
