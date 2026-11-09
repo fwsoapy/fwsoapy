@@ -1,48 +1,34 @@
-# fwsoapy
+# Hey, I'm Soapy
 
-I build tools for gamers: stream overlays, calculators, Discord bots and browser extensions.
-
-I take freelance work. If it's a bot, a script or a tool that makes a game easier to play or stream, I can build it. I build with Claude to move quickly.
-
-## What I build
-
-- Discord bots
-- Chrome extensions
-- Web tools for games, like calculators, overlays and trackers
-- Roblox scripts in Luau
+I make free tools for Fortnite and Minecraft players and streamers. Most of them started because a friend asked for one, or because the tool I wanted cost money or didn't exist.
 
 ## Projects
 
-### Ranked Overlay
-[Live site](https://fwsoapy.github.io/ranked-overlay/) | [Source](https://github.com/fwsoapy/ranked-overlay)
+**[Ranked Overlay](https://fwsoapy.github.io/ranked-overlay/)** ([code](https://github.com/fwsoapy/ranked-overlay))
+Shows your live Fortnite rank and ELO on stream. A friend wanted his rank on screen while he streamed, so I built it. Pick a design, copy the link, paste it into OBS.
 
-A live Fortnite ranked overlay for OBS. It shows your rank, ELO, ELO gain, wins and losses and season stats from OliTracker, with 9 designs and any accent color. It runs as a website, so there's nothing to install: pick a design, copy one link and paste it into OBS.
+**[Drop Calculator](https://fwsoapy.github.io/fortnite-dropcalc/)** ([code](https://github.com/fwsoapy/fortnite-dropcalc))
+Tells you the exact second to jump off the bus, pull and cut so you land first. Pros pay for tools like this. I timed every flight in game with a stopwatch and made it free.
 
-### Code Overlay
-[Live site](https://fwsoapy.github.io/code-overlay/) | [Source](https://github.com/fwsoapy/code-overlay)
+**[SeedForge](https://fwsoapy.github.io/seedforge/)** ([code](https://github.com/fwsoapy/seedforge))
+Finds Minecraft seeds that have the structures and biomes you want close to spawn. Works for Java and Bedrock and runs fully in the browser (Cubiomes compiled to WebAssembly). I made it to find my own survival seed.
 
-Makes a "Use Code" creator code overlay for streams and videos and exports it as a transparent PNG. It has presets and custom colors, and it runs entirely in the browser.
+**[Code Overlay](https://fwsoapy.github.io/code-overlay/)** ([code](https://github.com/fwsoapy/code-overlay))
+Makes a "Use Code" creator code image for streams and exports a transparent PNG.
 
-### Fortnite Drop Calculator
-[Live site](https://fwsoapy.github.io/fortnite-dropcalc/) | [Source](https://github.com/fwsoapy/fortnite-dropcalc)
+## Also built
 
-Enter your bus route and landing spot and it gives you the exact second to jump, pull and cut. The flight timings were measured in game with a stopwatch, not copied from a wiki.
-
-### SeedForge
-[Live site](https://fwsoapy.github.io/seedforge/) | [Source](https://github.com/fwsoapy/seedforge)
-
-A Minecraft seed finder for Java and Bedrock. It searches for several structures and biomes at once, with a distance limit for each and rules for how close they must be to each other. It runs in the browser on Cubiomes compiled to WebAssembly, with no backend.
+- **FortReplays**: drop in a Fortnite `.replay` file and see your and your squad's stats for the match. One HTML file, runs offline, decrypts and parses the replay in the browser.
+- **Wordle Solver**: a web app and Chrome extension that suggests the best next guess.
+- **Litematica farm generators**: Python scripts that build Minecraft farm schematics and simulate the redstone and water before you place a block.
+- **PC perf profiler**: a read-only PowerShell script that dumps a PC's settings so you can diff two machines and see why one runs worse.
 
 ## Stack
 
-TypeScript, JavaScript, Python, Luau, WebAssembly
+TypeScript, JavaScript, Python, C (WebAssembly), PowerShell, Luau
 
 ## Contact
 
-The best way to reach me is Discord: **fwsoapy**.
+Discord is the best way to reach me: **fwsoapy**. I take requests and freelance work.
 
-- GitHub: [@fwsoapy](https://github.com/fwsoapy)
-- Twitch: [fwsoap](https://twitch.tv/fwsoap)
-- YouTube: [@fwsoapy](https://youtube.com/@fwsoapy)
-- TikTok: [@fw.soap](https://tiktok.com/@fw.soap)
-- X: [@soapyfw](https://x.com/soapyfw)
+[Twitch](https://twitch.tv/fwsoap) · [YouTube](https://youtube.com/@fwsoapy) · [TikTok](https://tiktok.com/@fw.soap) · [X](https://x.com/soapyfw)
