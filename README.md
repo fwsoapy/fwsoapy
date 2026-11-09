@@ -16,6 +16,9 @@ Finds Minecraft seeds that have the structures and biomes you want close to spaw
 **[Code Overlay](https://fwsoapy.github.io/code-overlay/)** ([code](https://github.com/fwsoapy/code-overlay))
 Makes a "Use Code" creator code image for streams and exports a transparent PNG.
 
+**[Wordle Solver](https://fwsoapy.github.io/wordle-solver/)** ([code](https://github.com/fwsoapy/wordle-solver))
+Type your guesses, color the tiles and it gives you the best next guess. It plans ahead so you still win in 6, and follows real hard mode rules. In tests it won 300 of 300 games in normal mode, averaging 3.81 guesses.
+
 ## Stack
 
 TypeScript, JavaScript, Python, C (WebAssembly), Luau
