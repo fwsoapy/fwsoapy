@@ -16,19 +16,12 @@ Finds Minecraft seeds that have the structures and biomes you want close to spaw
 **[Code Overlay](https://fwsoapy.github.io/code-overlay/)** ([code](https://github.com/fwsoapy/code-overlay))
 Makes a "Use Code" creator code image for streams and exports a transparent PNG.
 
-## Also built
-
-- **FortReplays**: drop in a Fortnite `.replay` file and see your and your squad's stats for the match. One HTML file, runs offline, decrypts and parses the replay in the browser.
-- **Wordle Solver**: a web app and Chrome extension that suggests the best next guess.
-- **Litematica farm generators**: Python scripts that build Minecraft farm schematics and simulate the redstone and water before you place a block.
-- **PC perf profiler**: a read-only PowerShell script that dumps a PC's settings so you can diff two machines and see why one runs worse.
-
 ## Stack
 
-TypeScript, JavaScript, Python, C (WebAssembly), PowerShell, Luau
+TypeScript, JavaScript, Python, C (WebAssembly), Luau
 
 ## Contact
 
-Discord is the best way to reach me: **fwsoapy**. I take requests and freelance work.
+Discord is the best way to reach me: **fwsoapy**. I take requests.
 
 [Twitch](https://twitch.tv/fwsoap) · [YouTube](https://youtube.com/@fwsoapy) · [TikTok](https://tiktok.com/@fw.soap) · [X](https://x.com/soapyfw)
