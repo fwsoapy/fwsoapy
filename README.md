@@ -10,11 +10,17 @@ Shows your live Fortnite rank and ELO on stream. A friend wanted his rank on scr
 **[Drop Calculator](https://fwsoapy.github.io/fortnite-dropcalc/)** ([code](https://github.com/fwsoapy/fortnite-dropcalc))
 Tells you the exact second to jump off the bus, pull and cut so you land first. Pros pay for tools like this. I timed every flight in game with a stopwatch and made it free.
 
+**[FortReplays](https://fwsoapy.github.io/fortreplays/)** ([code](https://github.com/fwsoapy/fortreplays))
+Reads the replay files Fortnite already saves and shows your damage, accuracy, placements, kill feed and trends over time. Everything runs in your browser, so your replays never get uploaded.
+
 **[SeedForge](https://fwsoapy.github.io/seedforge/)** ([code](https://github.com/fwsoapy/seedforge))
 Finds Minecraft seeds that have the structures and biomes you want close to spawn. Works for Java and Bedrock and runs fully in the browser (Cubiomes compiled to WebAssembly). I made it to find my own survival seed.
 
 **[Code Overlay](https://fwsoapy.github.io/code-overlay/)** ([code](https://github.com/fwsoapy/code-overlay))
 Makes a "Use Code" creator code image for streams and exports a transparent PNG.
+
+**[Macro Recorder](https://github.com/fwsoapy/macro-recorder/releases/latest)** ([code](https://github.com/fwsoapy/macro-recorder))
+Records your keyboard and mouse with F8 and plays it back with F9. Every step shows up in a table you can edit. One-click installer for Windows.
 
 **[Wordle Solver](https://fwsoapy.github.io/wordle-solver/)** ([code](https://github.com/fwsoapy/wordle-solver))
 Type your guesses, color the tiles and it gives you the best next guess. It plans ahead so you still win in 6, and follows real hard mode rules. In tests it won 300 of 300 games in normal mode, averaging 3.81 guesses.
