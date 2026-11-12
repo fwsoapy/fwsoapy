@@ -1,11 +1,14 @@
 # Hey, I'm Soapy
 
-I make free tools for Fortnite and Minecraft players and streamers.
+I make free tools for Fortnite, Valorant and Minecraft players and streamers.
 
 ## Projects
 
 **[Ranked Overlay](https://fwsoapy.github.io/ranked-overlay/)** ([code](https://github.com/fwsoapy/ranked-overlay))
 Shows your live Fortnite rank and ELO on stream. Pick a design, copy the link, paste it into OBS.
+
+**[Valorant Ranked Overlay](https://fwsoapy.github.io/valorant-ranked-overlay/)** ([code](https://github.com/fwsoapy/valorant-ranked-overlay))
+Shows your live Valorant rank, RR, today's RR gain and wins and losses on stream. Type your Riot ID, copy the link, paste it into OBS.
 
 **[Drop Calculator](https://fwsoapy.github.io/fortnite-dropcalc/)** ([code](https://github.com/fwsoapy/fortnite-dropcalc))
 Tells you the exact second to jump off the bus, pull and cut so you land first. I timed every flight in game with a stopwatch.
